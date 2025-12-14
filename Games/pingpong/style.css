@@ -1,0 +1,28 @@
+* {
+  touch-action: none;
+}
+
+body {
+  margin: 0;
+  background: #111;
+  color: #fff;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin: 10px 0;
+}
+
+#score {
+  font-size: 28px;
+  margin-bottom: 8px;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  background: black;
+  border: 2px solid white;
+  max-width: 100%;
+}

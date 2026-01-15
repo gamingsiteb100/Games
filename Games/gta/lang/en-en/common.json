@@ -1,0 +1,9 @@
+{
+  "sentences": {
+    "wash_the_car": "Wash the car at the hand car wash",
+    "deliver_car": "Deliver the vehicle to the garage",
+    "escape_police": "Lose the cops",
+    "steal_vehicle": "Steal a vehicle",
+    "steal_vehicle_for_setup": "Steal a vehicle for the setup"
+  }
+}

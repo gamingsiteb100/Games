@@ -1,0 +1,7 @@
+const dealer = {
+  ui: {},
+  state: {
+    open: false,
+    money: // read from /database/firebase/users/money
+  }
+};
